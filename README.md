@@ -47,4 +47,5 @@ Nothing here...
 Created my GitHub account and began organizing my cybersecurity learning environment.
 
 
-# You might feel this is AI-generated, and it is, I am currently using ChatGPT and other AIs like Gemini to guide me through this journey. So, if anyone stumbles upon this, you can sometimes leave me a comment (maybe commit? I don't really know ^^) to help me with each step of me becoming a cybersecurity. Currently, I am still in my way of deciding which path to go - Blue Team, SOC, etc. - I do not know yet. I am still in progress of exploring myself. That's it! Thanks for reading!
+# My notes:
+You might feel this is AI-generated, and it is, I am currently using ChatGPT and other AIs like Gemini to guide me through this journey. So, if anyone stumbles upon this, you can sometimes leave me a comment (maybe commit? I don't really know ^^) to help me with each step of me becoming a cybersecurity. Currently, I am still in my way of deciding which path to go - Blue Team, SOC, etc. - I do not know yet. I am still in progress of exploring myself. That's it! Thanks for reading!

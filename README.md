@@ -25,6 +25,7 @@ Become a cybersecurity professional capable of designing, defending, and improvi
 - TryHackMe
 - CyLab Security Academy
 - GitHub
+- OverTheWire
 
 ---
 
@@ -70,6 +71,15 @@ Complete module 2 of GCC
 Ask some more questions to practice Linux commands - I am going to be someone in charge of the whole command center, like in an RPG game...)
 SSH IS HERE!
 Bandit level 0-2, complete today.
+
+### Day 4-6
+
+Module 2 of GCC done. Module 3, HERE I COME!!!
+Bandit level 3-4, done today.
+Created TryHackMe account. Focus on this tomorrow.
+OSINT practice: +2 problems.
+Noted about ls, cat, grep and cd in Linux.
+Day 7 goals: GO TryHackMe. OSINT and Bandit, you can take a rest.
 
 
 
